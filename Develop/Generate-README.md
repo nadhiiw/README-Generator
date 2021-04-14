@@ -25,6 +25,8 @@
   ## Usage 
   
   *Instructions and examples for use:*
+  readme-generator-tutorial.gif![image](https://user-images.githubusercontent.com/78042504/114657474-c864e080-9cb5-11eb-897d-7e18eeeb1482.png)
+
 
   
   steps
